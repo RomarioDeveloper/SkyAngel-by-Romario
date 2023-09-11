@@ -1,10 +1,13 @@
 # SkyAngel-by-Romario
                                               **JS CODE**
-![code-snapshot](https://github.com/RomarioDeveloper/SkyAngel-by-Romario/assets/85926208/9eb4a419-73d1-445a-ba58-ad1bf5ed39d9)
+![code-snapshot](https://github.com/RomarioDeveloper/SkyAngel-by-Romario/assets/85926208/e5cc872a-30e9-4e9e-81a5-bc9213edbe05)
+
                                               **HTML CODE**
                                               
- ![code-snapshot1](https://github.com/RomarioDeveloper/SkyAngel-by-Romario/assets/85926208/e34e696e-3054-4884-83cd-6d6b3e814582)
+![code-snapshot1](https://github.com/RomarioDeveloper/SkyAngel-by-Romario/assets/85926208/9fa840c6-0718-4e9c-8553-8818f12314d7)
+
 
 
                                               **CSS CODE**
-  ![code-snapshot3](https://github.com/RomarioDeveloper/SkyAngel-by-Romario/assets/85926208/f4280c87-1de5-4c27-ad9a-017345ccf225)
+
+![code-snapshot3](https://github.com/RomarioDeveloper/SkyAngel-by-Romario/assets/85926208/787b03c9-df5a-4f78-acdc-901670901014)
