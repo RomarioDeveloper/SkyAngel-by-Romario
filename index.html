@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Sky Angel</title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <link rel="icon" href="mediaFiles/favicon.png" type="image/x-icon" />
+  </head>
+  <body>
+    <div id="wrapper">
+      <canvas id="canvas" width="1024" height="600"></canvas>
+      <img src="mediaFiles/speaker.png" id="volume" />
+      <img src="mediaFiles/speaker-muted.png" id="volume_muted" />
+      <img src="mediaFiles/font.png" id="font_size" />
+
+      <div id="game_over_wrapper">
+        <span id="game_over_title">GAME OVER</span>
+        <span id="game_over_text"></span>
+        <button id="back_menu_over">Выйти в главное меню</button>
+      </div>
+
+      <div id="pause_wrapper"></div>
+      <span id="pause_text">ПАУЗА</span>
+      <button id="back_menu">Выйти в главное меню</button>
+      <span id="probel">Пробел: продолжить игру</span>
+      <div id="pause" class="pause"></div>
+
+      <div id="main_menu">
+        <button id="btn1" class="btn">Начать игру</button>
+        <button id="btn2" class="btn">Как играть</button>
+        <button id="btn3" class="btn">Таблица рейтинга</button>
+        <p id="kak_igrat">
+          <span>Как играть</span><br />
+          <span>1. Переместите самолет с помощью клавиш со стрелками;</span><br />
+          <span>2. Таймер представляет время, прошедшее;</span><br />
+          <span>3. Счетчик топлива показывает оставшееся топливо;</span><br />
+          <span>4. Во время полета самолет должен избегать птиц, которые представлены в небе. Если самолет попал в птицу, игра закончилась;</span><br />
+          <span>5. Во время полета самолет должен собирать топливо и звезды в небе;</span><br />
+          <span>6. Вы можете приостановить игру нажатием кнопки на паузе или нажатием пробела.</span><br />
+          <span>7. Выходите за пределы всех пределов;</span><br />
+          <span>Полет в Sky Angel Challenge ...</span>
+          <img id="back_k" src="back.png" />
+        </p>
+      </div>
+    </div>
+
+    <script type="text/javascript" src="script.js"></script>
+  </body>
+</html>
